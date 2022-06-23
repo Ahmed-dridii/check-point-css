@@ -1,0 +1,16 @@
+li {
+    display: inline;
+}
+h1 {
+    border-color: black;
+    background-color: blue;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+.bla {
+    color: darkred;
+}
+.hey {
+    color: red;
+    font: optional;
+}
